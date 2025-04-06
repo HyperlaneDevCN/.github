@@ -2,7 +2,7 @@
   <img src="https://cdn.prod.website-files.com/6686ac1afeef42fcf1929457/6686c26718cec2e458cc5d7a_logo.svg" width="300" alt="Hyperlane Logo">
 </p>
 
-<h1 align="center">🌐 Hyperlane 中文开发者社区</h1>
+<h1 align="center">🌐 Hyperlane 中文社区</h1>
 
 <p align="center">
   <strong>无需许可的模块化跨链协议 | 构建 Web3 的通用互操作层</strong>

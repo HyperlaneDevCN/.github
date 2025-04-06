@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hyperlane.xyz/hyperlane-logo.svg" width="300" alt="Hyperlane Logo">
+  <img src="https://cdn.prod.website-files.com/6686ac1afeef42fcf1929457/6686c26718cec2e458cc5d7a_logo.svg" width="300" alt="Hyperlane Logo">
 </p>
 
 <h1 align="center">🌐 Hyperlane 中文开发者社区</h1>
